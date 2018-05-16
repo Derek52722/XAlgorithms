@@ -1,5 +1,3 @@
-package algorithm;
-
 import java.lang.reflect.Array;
 import java.util.Comparator;
 
